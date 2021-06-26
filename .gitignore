@@ -2,3 +2,7 @@
 .Ds_Store
 .idea
 node_modules
+go.sum
+go.mod
+_book
+*.pdf
